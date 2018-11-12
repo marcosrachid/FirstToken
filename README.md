@@ -24,4 +24,4 @@ My first token on ethereum platform
 
 Source  | Data
 ------------- | -------------
-Link  | <https://www.youtube.com/watch?v=b3kzi4UVdCk>
+Link  | <https://hackernoon.com/create-your-own-ethereum-token-bfa6302084da>
